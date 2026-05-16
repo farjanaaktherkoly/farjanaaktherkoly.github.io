@@ -1,0 +1,25 @@
+UPLOAD CHECKLIST
+
+Repository: farjanaaktherkoly.github.io
+Visibility: Public
+README during creation: Off if files are not uploaded yet; okay to overwrite if already created
+.gitignore: None
+License: MIT or None
+
+Upload to root:
+[ ] index.html
+[ ] styles.css
+[ ] script.js
+[ ] README.md
+[ ] .nojekyll
+[ ] assets folder
+
+Enable Pages:
+[ ] Settings > Pages
+[ ] Source: Deploy from a branch
+[ ] Branch: main
+[ ] Folder: /root
+[ ] Save
+
+Final website:
+https://farjanaaktherkoly.github.io/
